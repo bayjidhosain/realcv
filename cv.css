@@ -1,0 +1,34 @@
+body {margin:0; padding:0; background-color:pink;}
+ .container{max-width:1000px; background-color:yellow;
+margin:0 auto; padding:20px }
+.style{border:3px solid red; border-radius:50%; float:left}
+
+.work{float:left; padding:10px}
+
+h1,h2,h3,h4,h5,h6 {color:red}
+
+.shopna {float:right; padding:10px}
+.shopna a {text-decoration:none; color:teal;
+font-weight:bold;}
+
+.shopna a:hover{text-decoration:underline; color:tomato}
+
+.div-clear{clear:both}
+hr{border:3px solid black; border-bottom:none}
+ 
+
+ 
+#number-one {  }
+ .content{ }
+.left-div{width:30%; float:left}
+.right-div{width:70%; float:left;}
+
+.common-hr {border:solid black 1px; border-bottom:none}
+
+
+.education-left{width:45%; float:left}
+.education-right{width:45%; float:right}
+
+
+.bottom{background-color:black; text-align:center; color:red;
+padding:20px}
